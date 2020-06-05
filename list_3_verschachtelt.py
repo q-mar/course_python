@@ -2,7 +2,7 @@ names = [
     ["Andi", "Kolb"],
     ["Peter", "Meier"],
     ["Andreas", "Walter"],
-    ["Sandra", "Schneider"]
+    ["Sandra", "Schnaider"]
 ]
 asdfsfda asdfsfda asdfsfda asdfsfdaasdfsfda asdfsfdaasdfsfda asdfsfdaasdfsfda asdfsfdaasdfsfda asdfsfdaasdfsfda asdfsfdaasdfsfda asdfsfda
 
